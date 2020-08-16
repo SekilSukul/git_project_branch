@@ -6,6 +6,8 @@ public class BranchDeneme {
 
 		
 		System.out.println("16:28 Master Branch'ten ilk Commit");
+			
+			System.out.println("18:37 feature branch'ten ilk Commit");
 		
 		
 		
